@@ -1,3 +1,3 @@
 # Miscellaneous
 
-In this repository am going to include my tests and experiments in Python development.
+In this repository, I am going to include my tests and experiments specially focused in my development with Python language.
